@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-🌱 Actualmente estoy aprendiendo<br> el framework quarkus para java, dando los primeros pasos en python y profundizando en el conocimiento de estructuras de datos
+🌱 Actualmente estoy aprendiendo el framework quarkus para java, dando los primeros pasos en python y profundizando en el conocimiento de estructuras de datos
 
 
 ## 🌐 Socials:
