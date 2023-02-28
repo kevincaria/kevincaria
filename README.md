@@ -2,7 +2,6 @@
 🌱 Soy estudiante de la tecnicatura universitaria en programación en la Universidad Nacional de Hurlingham. Hice varios cursos sobre programación en donde me enfoque principalmente en el lado del backend con Java/Spring. 
 En mi trabajo, estoy familiarizado con codigo en proyectos basados en java/quarkus y actualmente estoy profundizando en el framework quarkus para java, dando los primeros pasos en python y estudiando estructuras de datos.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-caria/) 
 
